@@ -1,0 +1,8 @@
+{
+  "name": "Boma",
+  "description": "Une plateforme de tchat et de vidéo aléatoire pour le continent africain.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
